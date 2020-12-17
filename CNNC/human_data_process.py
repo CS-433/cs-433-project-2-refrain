@@ -4,7 +4,6 @@ sys.argv[1]: "human1.csv"
 ====================================================================================
 '''
 import pandas as pd
-import scanpy as sc
 import numpy as np
 import csv
 import json, re,os, sys
