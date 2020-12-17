@@ -63,8 +63,3 @@ In the `Modified` file folder
 ```
 python3 draw.py human1
 ```
-### To fine-tune
-```bash
-python3 fine_tune.py
-```
-In the `Modified` file folder
