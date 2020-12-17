@@ -43,6 +43,8 @@ Add the index, corresponding pair file and a number indicating whether it has la
 python3 NEPDF_human.py index_train.csv train.csv 1
 python3 NEPDF_mouse.py index_train.csv train.csv 1
 ```
+If you don't have labels, the last argument is 0.
+
 To get train/test/whole gene pairs, use corresponding argument.
 
 ### To use mouse data　& human data
